@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Merhaba, ben Batuhan!
 
-<!--
-**ba2hanz/ba2hanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Web geliştiricisi & Blockchain node operatörü  
+💻 Frontend ve backend teknolojileriyle projeler geliştiriyorum  
+🔗 Web3, merkeziyetsizlik ve zincir altyapılarına ilgim yüksek  
+🛠️ Aktif olarak:  
+- Web tabanlı projelerde React, JavaScript ve REST API kullanıyorum  
+- Blockchain ağlarında node kurulumları, validator işlemleri ve altyapı yönetimi yapıyorum  
+- Açık kaynaklı projelere katkı sağlıyorum ve kendi çözümlerimi geliştiriyorum  
+  
+🌱 Sürekli öğreniyor ve deneyim kazanıyorum:  
+- Web programlama (HTML, CSS, JS, React, Next.js)  
+- Sunucu yönetimi (Linux, bash, VPS)  
+- Node kurulumu (Ethereum, Cosmos, Polkadot tabanlı ağlar ve test ağları)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Bana ulaşmak istersen:   
+[Twitter](https://twitter.com/Ba2Hancryp) 
