@@ -1,9 +1,7 @@
 ## 👋 Merhaba, ben Batuhan!
  
-💻 Web teknolojileriyle projeler geliştiriyorum  
-🔗 Web, AI, zincir altyapılarına ilgim yüksek  
-🛠️ Aktif olarak:  
+💻 Web/Mobil teknolojileriyle projeler geliştiriyorum   
 - Web tabanlı projelerde React, JavaScript ve REST API kullanıyorum  
 - Blockchain ağlarında node kurulumları, validator işlemleri ve altyapı yönetimi yapıyorum  
-- AI konusunda kendimi geliştirmeye çalışıyorum
+- Mobil Programlama ve AI konularında kendimi geliştirmeye çalışıyorum
 
